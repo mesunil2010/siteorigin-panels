@@ -6,7 +6,7 @@ Stable tag: 2.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 Donate link: http://siteorigin.com/page-builder/#donate
-Contributors: gpriday, braam-genis
+Contributors: gpriday, braam-genis, sunil chaulagain
 
 Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder.
 
